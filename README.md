@@ -10,7 +10,7 @@ Through my research I've been able to find a couple older datasets, the ECML/PKD
 
 ## Data Conversion
 
-The data provided needs to be of value to machine learning applications, in this case Weka. So the datasets need to be converted to .arff format.  Additionally, parts of the data would need to be parsed out, and example tuple from the original dataset for CSIC anonalous traffic looks like this.
+The data provided needs to be of value to machine learning applications, in this case Weka. So the datasets need to be converted to .arff format.  Additionally, parts of the data would need to be parsed out, an example tuple from the original dataset for CSIC anonalous traffic looks like this.
 
 ```
 POST http://localhost:8080/tienda1/publico/anadir.jsp HTTP/1.1
